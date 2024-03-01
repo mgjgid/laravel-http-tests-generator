@@ -2,8 +2,8 @@
     "name": "mgjgid/laravel-http-tests-generator",
     "type": "library",
     "description": "Autogenerate http tests for laravel",
-    "keywords": ["eduardoarandah", "autohttptests"],
-    "homepage": "https://github.com/eduardoarandah/autohttptests",
+    "keywords": ["Jgid", "autohttptests"],
+    "homepage": "https://github.com/Jgid/autohttptests",
     "license": "MIT",
     "authors": [
         {
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "EduardoArandaH\\AutoHttpTests\\": "src"
+            "Jgid\\LaravelHttpTestsGenerator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "EduardoArandaH\\AutoHttpTests\\": "tests"
+            "Jgid\\LaravelHttpTestsGenerator\\": "tests"
         }
     },
     "scripts": {
@@ -38,7 +38,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "EduardoArandaH\\AutoHttpTests\\AutoHttpTestsServiceProvider"
+                "Jgid\\LaravelHttpTestsGenerator\\AutoHttpTestsServiceProvider"
             ]
         },
         "branch-alias": {
