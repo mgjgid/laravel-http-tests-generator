@@ -5,6 +5,7 @@
     "keywords": ["Jgid", "autohttptests"],
     "homepage": "https://github.com/Jgid/autohttptests",
     "license": "MIT",
+    "version": "beta",
     "authors": [
         {
             "name": "Eduardo Aranda Hernandez",
