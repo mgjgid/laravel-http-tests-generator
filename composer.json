@@ -1,5 +1,5 @@
 {
-    "name": "eduardoarandah/autohttptests",
+    "name": "mgjgid/laravel-http-tests-generator",
     "type": "library",
     "description": "Autogenerate http tests for laravel",
     "keywords": ["eduardoarandah", "autohttptests"],
