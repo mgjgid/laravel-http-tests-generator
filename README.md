@@ -1,10 +1,10 @@
-# Laravel autohttptests
+# Laravel HTTP Tests Generator
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**No more writing tests by hand =D**
+**Generate http tests by clicking through your Laravel app**
 
 Just execute the command to record your actions as http tests
 
